@@ -55,3 +55,4 @@ After running the script and providing this path as input, it will convert to th
 ## Contributing
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
